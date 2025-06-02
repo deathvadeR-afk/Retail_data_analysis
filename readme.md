@@ -75,7 +75,7 @@ The analysis workflow is detailed in the `data_cleaning_preprocessing.ipynb` not
 
 2.  **Clone the Repository (if applicable):**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/deathvadeR-afk/Retail_data_analysis.git
     cd <repository-directory>
     ```
 
