@@ -76,7 +76,7 @@ The analysis workflow is detailed in the `data_cleaning_preprocessing.ipynb` not
 2.  **Clone the Repository (if applicable):**
     ```bash
     git clone https://github.com/deathvadeR-afk/Retail_data_analysis.git
-    cd <repository-directory>
+    cd Retail_data_analysis
     ```
 
 3.  **Ensure Data Files are Present:** Make sure the `Retail_Data_Transactions.csv` and `Retail_Data_Response.csv` files are in the same directory as the notebook, or update the file paths within the notebook accordingly.
